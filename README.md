@@ -3,10 +3,15 @@
 <h2> Versão : 0.1 </h2>
 
 <h2>Descrição do Projeto</h2>
-<p> Aplicativo desenvolvido em Java para dispositivos desktop com finalidade de gerenciamento de estoque domestivo, com o objetivo de melhorar a qualidade de vida de pessoas com pouco tempo livre ou que moram sozinhas</p>
+<p> Aplicativo desenvolvido em Java para dispositivos desktop com finalidade de gerenciamento de estoque doméstivo, com o objetivo de melhorar a qualidade de vida de pessoas com pouco tempo livre ou que moram sozinhas</p>
 
 <h2>Funcionalidades ⚙️ </h2>
-
+<ol>
+  <li> ✔️ Cadastramento de Usuários</li>
+  <li> ✔️ Sistema de Login e validação de cadastros</li>
+  <li> ⚠️ Cadastramento de Ambientes (Containers) para alocar items em diferentes lugares </li>
+  <li> ⚠️ Cadastramento de Produtos e Items </li>
+  <li> ⚠️ Gerenciamento dos items com base no atributos adicionados</li>
 <h2>Requerimentos</h2>
 <ul>
   <li>Java Development Kit (JDK) 8 ou superior</li>
