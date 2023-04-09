@@ -22,4 +22,11 @@
   <li>Configure as credenciais de acesso ao banco de dados MySQL que deseje.</li>
   <li>Altere as configurações da classe <code>ConnectionFactory</code> com as credenciais inseridas no banco de dados MySQL.</li>
   <li>Execute o script SQL no diretório <code>src/main/java/com/mycompany/bicowherev0/sql/bdbico.sql</code> para criar as tabelas necessárias no banco de dados "bicoapp".</li>
-  <li>Inicie
+  <li>Inicie a aplicação Java </li>
+  
+<h2>Uso</h2>
+  <ol>
+    <li>Cadastre seu usário ou faça login para entrar no sistema .</li>
+    <li>Adicione os ambientes e seus containers para alocar os produtos</li>
+    <li>Cadastre os  produtos para o estoque doméstico fornecendo informações importantes para gerenciamento.</li>
+    <li>Gerencie o estoque doméstico, atualizando a quantidade de produtos disponíveis e removendo produtos que não estão mais em estoque.</li>
