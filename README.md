@@ -12,6 +12,8 @@
   <li> ⚠️ Cadastramento de Ambientes (Containers) para alocar items em diferentes lugares </li>
   <li> ⚠️ Cadastramento de Produtos e Items </li>
   <li> ⚠️ Gerenciamento dos items com base no atributos adicionados</li>
+</ol>
+
 <h2>Requerimentos</h2>
 <ul>
   <li>Java Development Kit (JDK) 8 ou superior</li>
