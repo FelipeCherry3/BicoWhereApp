@@ -1,5 +1,6 @@
 <h1> BicoWhere? </h1>
 <p Aplicativo para gerenciamento de estoque doméstico>
+
 <h2> Versão : 0.1 </h2>
 
 <h2>Descrição do Projeto</h2>
@@ -13,6 +14,8 @@
   <li> ⚠️ Cadastramento de Produtos e Items </li>
   <li> ⚠️ Gerenciamento dos items com base no atributos adicionados</li>
 </ol>
+
+Distribuição
 
 <h2>Requerimentos</h2>
 <ul>
@@ -47,3 +50,12 @@
     <li>Cadastre os  produtos para o estoque doméstico fornecendo informações importantes para gerenciamento.</li>
     <li>Gerencie o estoque doméstico, atualizando a quantidade de produtos disponíveis e removendo produtos que não estão mais em estoque.</li>
   </ol>
+  
+  <h2>Recursos de inseridos 🧰 </h2>
+  <ul>
+    <li>📝 Sistema de cadastro  ✔️ </li>
+    📝 Conexão MySQL ✔️ 
+    📝 Persistência dos Dados (DAO) ✔️ 
+    📝 Classes Models & Control ⚠️
+    📝 Finalização das principais classes e métodos para gerar uma versão Alpha ⚠️
+    
