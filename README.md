@@ -24,6 +24,14 @@ Distribuição
   <li>MySQL Community Server 8.0 ou superior</li>
 </ul>
 
+<h1>Linguagens, dependencias e libs utilizadas 📚 <h1>
+<ul>  
+  <li> Linguagem e Ecossístema Java JDK</li>
+  <li> Biblioteca JDBC </li>
+  <li> Java Swing & JavaFX </li>
+  </ul>
+  
+
 <p>O projeto está sendo desenvolvido na plataforma NetBeans mas neste momento pode ser inicializado e analisado em qualquer ambiente de desenvolvimento Java.</p>
 
 <h2>Instalação</h2>
