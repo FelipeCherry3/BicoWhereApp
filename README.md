@@ -24,7 +24,7 @@ Distribuição
   <li>MySQL Community Server 8.0 ou superior</li>
 </ul>
 
-<h1>Linguagens, dependencias e libs utilizadas 📚 <h1>
+<h1>Linguagens, dependencias e libs utilizadas 📚 </h1>
 <ul>  
   <li> Linguagem e Ecossístema Java JDK</li>
   <li> Biblioteca JDBC </li>
