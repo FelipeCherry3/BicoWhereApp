@@ -1,3 +1,12 @@
+<h1> BicoWhere? </h1>
+<p Aplicativo para gerenciamento de estoque doméstico>
+<h2> Versão : 0.1 </h2>
+
+<h2>Descrição do Projeto</h2>
+<p Aplicativo desenvolvido em Java para dispositivos desktop com finalidade de gerenciamento de estoque domestivo, com o objetivo de melhorar a qualidade de vida de pessoas com pouco tempo livre ou que moram sozinhas>
+
+<h2>Funcionalidades ⚙️ </h2>
+
 <h2>Requerimentos</h2>
 <ul>
   <li>Java Development Kit (JDK) 8 ou superior</li>
