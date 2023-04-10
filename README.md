@@ -26,7 +26,7 @@ Distribuição
 
 <h1>Linguagens, dependencias e libs utilizadas 📚 </h1>
 <ul>  
-  <li> Linguagem e Ecossístema Java JDK</li>
+  <li> Linguagem e Ecossistema Java JDK</li>
   <li> Biblioteca JDBC </li>
   <li> Java Swing & JavaFX </li>
   </ul>
