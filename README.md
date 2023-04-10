@@ -61,9 +61,9 @@ Distribuição
   
   <h2>Recursos de inseridos 🧰 </h2>
   <ul>
-    <li>📝 Sistema de cadastro  ✔️ </li>
-    📝 Conexão MySQL ✔️ 
-    📝 Persistência dos Dados (DAO) ✔️ 
-    📝 Classes Models & Control ⚠️
-    📝 Finalização das principais classes e métodos para gerar uma versão Alpha ⚠️
+    <li>📝 Sistema de cadastro  </li>
+    <li>📝 Conexão MySQL  </li>
+    <li>📝 Persistência dos Dados (DAO)  </li>
+    <li>📝 Classes Models & Control  </li>
+    <li>📝 Finalização das principais classes e métodos para gerar uma versão Alpha  </li>
     
