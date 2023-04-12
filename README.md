@@ -2,11 +2,13 @@
 <p Aplicativo para gerenciamento de estoque doméstico>
 
 <h2> Versão : 0.1 </h2>
+
 Status do Projeto: ⚠️
-<h2>Descrição do Projeto</h2>
+
+<h1>Descrição do Projeto</h1>
 <p> Aplicativo desenvolvido em Java para dispositivos desktop com finalidade de gerenciamento de estoque doméstivo, com o objetivo de melhorar a qualidade de vida de pessoas com pouco tempo livre ou que moram sozinhas</p>
 
-<h2>Funcionalidades ⚙️ </h2>
+<h1>Funcionalidades ⚙️ </h1>
 <ol>
   <li> ✔️ Cadastramento de Usuários</li>
   <li> ✔️ Sistema de Login e validação de cadastros</li>
@@ -15,9 +17,9 @@ Status do Projeto: ⚠️
   <li> ⚠️ Gerenciamento dos items com base no atributos adicionados</li>
 </ol>
 
-#Distribuição#
+<h1>Distribuição</h1>
 
-<h2>Requerimentos</h2>
+<h1>Requerimentos</h1>
 <ul>
   <li>Java Development Kit (JDK) 8 ou superior</li>
   <li>NetBeans IDE 8.2 ou superior</li>
@@ -34,7 +36,7 @@ Status do Projeto: ⚠️
 
 <p>O projeto está sendo desenvolvido na plataforma NetBeans mas neste momento pode ser inicializado e analisado em qualquer ambiente de desenvolvimento Java.</p>
 
-<h2>Instalação</h2>
+<h1>Instalação</h1>
 <ol>
   <li>Instale o Java Development Kit (JDK) a partir do site oficial da Oracle.</li>
   <li>Instale o NetBeans IDE a partir do site oficial da Apache NetBeans.</li>
@@ -42,7 +44,7 @@ Status do Projeto: ⚠️
   <li>Clone ou baixe os repositórios em seu computador.</li>
 </ol>
 
-<h2>Configuração</h2>
+<h1>Configuração</h1>
 <ol>
   <li>Abra o NetBeans IDE (ou plataforma de desenvolvimento equivalente) e importe o projeto Java.</li>
   <li>Crie um banco de dados MySQL com o nome "bicoapp".</li>
@@ -51,19 +53,19 @@ Status do Projeto: ⚠️
   <li>Execute o script SQL no diretório <code>src/main/java/com/mycompany/bicowherev0/sql/bdbico.sql</code> para criar as tabelas necessárias no banco de dados "bicoapp".</li>
   <li>Inicie a aplicação Java </li>
   </ol>
-<h2>Uso</h2>
+<h1>Uso</h1>
   <ol>
     <li>Cadastre seu usário ou faça login para entrar no sistema .</li>
     <li>Adicione os ambientes e seus containers para alocar os produtos</li>
     <li>Cadastre os  produtos para o estoque doméstico fornecendo informações importantes para gerenciamento.</li>
     <li>Gerencie o estoque doméstico, atualizando a quantidade de produtos disponíveis e removendo produtos que não estão mais em estoque.</li>
   </ol>
-  # Banco de Dados #
+  <h1> Banco de Dados </h1>
   <p> MySQL / On-premise</p>
   
-  # Resolvendo Problemas # 
+  <h1> Resolvendo Problemas </h1>
   
-  # Recursos de inseridos 🧰 #
+  <h1> Recursos de inseridos 🧰 </h1>
   <ul>
     <li>📝 Sistema de cadastro  </li>
     <li>📝 Conexão MySQL  </li>
@@ -72,7 +74,7 @@ Status do Projeto: ⚠️
     <li>📝 Finalização das principais classes e métodos para gerar uma versão Alpha  </li>
   </ul>
   
-  # Desenvolvedores #
+  <h1> Desenvolvedores </h1>
   Felipe Elias de Souza Camargo (FelipeCherry3)
   Gabriel Queiroz Pereira Yamaya
   Caio Augusto 
