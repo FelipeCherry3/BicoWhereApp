@@ -2,7 +2,7 @@
 <p Aplicativo para gerenciamento de estoque doméstico>
 
 <h2> Versão : 0.1 </h2>
-
+Status do Projeto: ⚠️
 <h2>Descrição do Projeto</h2>
 <p> Aplicativo desenvolvido em Java para dispositivos desktop com finalidade de gerenciamento de estoque doméstivo, com o objetivo de melhorar a qualidade de vida de pessoas com pouco tempo livre ou que moram sozinhas</p>
 
@@ -15,7 +15,7 @@
   <li> ⚠️ Gerenciamento dos items com base no atributos adicionados</li>
 </ol>
 
-Distribuição
+#Distribuição#
 
 <h2>Requerimentos</h2>
 <ul>
@@ -58,12 +58,23 @@ Distribuição
     <li>Cadastre os  produtos para o estoque doméstico fornecendo informações importantes para gerenciamento.</li>
     <li>Gerencie o estoque doméstico, atualizando a quantidade de produtos disponíveis e removendo produtos que não estão mais em estoque.</li>
   </ol>
+  # Banco de Dados #
+  <p> MySQL / On-premise</p>
   
-  <h2>Recursos de inseridos 🧰 </h2>
+  # Resolvendo Problemas # 
+  
+  # Recursos de inseridos 🧰 #
   <ul>
     <li>📝 Sistema de cadastro  </li>
     <li>📝 Conexão MySQL  </li>
     <li>📝 Persistência dos Dados (DAO)  </li>
     <li>📝 Classes Models & Control  </li>
     <li>📝 Finalização das principais classes e métodos para gerar uma versão Alpha  </li>
+  </ul>
+  
+  # Desenvolvedores #
+  Felipe Elias de Souza Camargo (FelipeCherry3)
+  Gabriel Queiroz Pereira Yamaya
+  Caio Augusto 
+  Henrique Modolo
     
